@@ -42,8 +42,8 @@ EOF
     Twitter.configure do |config|
       config.consumer_key       = 'KBdBLvdSM9Ue1DAzgxjMsw'
       config.consumer_secret    = '5MegGpZOZDJU0umUskEVxQsN96VgNyRseVn1WTcrhA'
-      config.oauth_token        = '1567250413-QEbdsYeDULCgtiXEIomBMuQOelwL2y8I9wxvZYV'
-      config.oauth_token_secret = 'PpBUJEiLcLp1U4coIldTLX0WwOX7s6yR5o2l4O4Idk'
+      config.oauth_token        = '1567250413-sVXX0p77Fay2N3kvbvNwhP6OLo2lgBCFn0ubpNE'
+      config.oauth_token_secret = 'ONQ1k9ZjlsYxDO2L13wa1VSuKnAmzeBqDqOYnAeDi8w'
     end
   end
 
