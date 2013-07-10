@@ -7,5 +7,5 @@ get '/' do
 end
 
 get '/random_tweet' do
-  Tweet.new.random_tweet
+  #Tweet.new.random_tweet
 end
