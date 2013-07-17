@@ -1,4 +1,4 @@
-require 'tweet.rb'
+require './tweet.rb'
 
 task :scheduler do
   Tweet.new.daily_tweet
