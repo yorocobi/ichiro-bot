@@ -1,5 +1,5 @@
 require './tweet.rb'
 
-task :scheduler do
+task :cron do
   Tweet.new.daily_tweet
 end
